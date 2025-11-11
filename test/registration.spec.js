@@ -49,7 +49,7 @@ test.describe('Demoblaze Registration Test Cases:', () => {
         await dialog.accept();
 
         // Verify error message
-        expect(msg).toMatch(/Please fill out Username and Password|This user already exists/);
+        expect(msg).toMatch(/Please fill out Username and Password|This user already exist./);
       });
       await register.register(user);
     });

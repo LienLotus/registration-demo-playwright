@@ -86,13 +86,13 @@
   {
     "id": "TC015",
     "type": "negative",
-    "username": "$",
+    "username": "$^0",
     "password": ""
   },
   {
     "id": "TC016",
     "type": "negative",
-    "username": "&",
+    "username": "a",
     "password": "Pass@123"
   }
 ]
