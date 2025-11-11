@@ -1,0 +1,98 @@
+[
+  {
+    "id": "TC001",
+    "type": "positive",
+    "username": "qauser1",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC002",
+    "type": "positive",
+    "username": "123",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC003",
+    "type": "positive",
+    "username": "qauser3$_",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC004",
+    "type": "negative",
+    "username": "",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC005",
+    "type": "negative",
+    "username": "qauser5",
+    "password": ""
+  },
+  {
+    "id": "TC006",
+    "type": "negative",
+    "username": "",
+    "password": ""
+  },
+  {
+    "id": "TC007",
+    "type": "negative",
+    "username": "a",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC008",
+    "type": "negative",
+    "username": "qauser8",
+    "password": "1"
+  },
+  {
+    "id": "TC009",
+    "type": "negative",
+    "username": "qause$9",
+    "password": "passwordtoolong12345678901234567890"
+  },
+  {
+    "id": "TC010",
+    "type": "negative",
+    "username": "qauser10",
+    "password": ""
+  },
+  {
+    "id": "TC011",
+    "type": "positive",
+    "username": "&",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC012",
+    "type": "positive",
+    "username": "&$",
+    "password": "Pass@123"
+  },
+  {
+    "id": "TC013",
+    "type": "positive",
+    "username": "qauser13",
+    "password": "@#"
+  },
+  {
+    "id": "TC014",
+    "type": "negative",
+    "username": "qauser14",
+    "password": "short"
+  },
+  {
+    "id": "TC015",
+    "type": "negative",
+    "username": "$",
+    "password": ""
+  },
+  {
+    "id": "TC016",
+    "type": "negative",
+    "username": "&",
+    "password": "Pass@123"
+  }
+]

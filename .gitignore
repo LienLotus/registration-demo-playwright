@@ -1,0 +1,27 @@
+# Node dependencies
+node_modules/
+
+# Playwright reports and artifacts
+playwright-report/
+test-results/
+results/
+*.zip
+
+# Allure reports (if added later)
+allure-report/
+allure-results/
+
+# Build output
+dist/
+
+# IDE and system files
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
